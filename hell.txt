@@ -1,3 +1,9 @@
 hey hi 
+<<<<<<< HEAD
 how are you:wq!
 
+=======
+how are you
+yes,doing grea
+ok then bye
+>>>>>>> 65052bb... hell.txt 3rd modified
